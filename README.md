@@ -1,0 +1,2 @@
+# provectus_symonov_yakusha_final_project
+Binary classification project for Vodafone Music subscription prediction
